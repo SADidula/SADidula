@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 👀 Interests: **Machine Learning, Quantum Engineering, Robotics, Game Development, API Development**  <br>- 🌱 Currently Learning: **Game Development with C#**, **API Development with JS & PHP**  <br>- 💞️ Collaboration: Open to **research papers**, **AI projects**, and **open-source collaborations**  <br>- 📫 Contact: [sadidulakasunka@gmail.com](mailto:sadidulakasunka@gmail.com)  <br>- 🌐 Portfolio: [sadidula.github.io](https://sadidula.github.io)
+- 👀 Interests: **Machine Learning, Quantum Engineering, Robotics, Game Development, API Development** 
+- 🌱 Currently Learning: **Game Development with C#**, **API Development with JS & PHP**
+- 💞️ Collaboration: Open to **research papers**, **AI projects**, and **open-source collaborations**
+- 📫 Contact: [sadidulakasunka@gmail.com](mailto:sadidulakasunka@gmail.com)
+- 🌐 Portfolio: [sadidula.github.io](https://sadidula.github.io)
 
 
 ## 🌐 Socials:
