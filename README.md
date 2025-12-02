@@ -1,107 +1,27 @@
-# 👋 Hi, I’m Didula (SADidula)
+# 💫 About Me:
+- 👀 Interests: **Machine Learning, Quantum Engineering, Robotics, Game Development, API Development**  <br>- 🌱 Currently Learning: **Game Development with C#**, **API Development with JS & PHP**  <br>- 💞️ Collaboration: Open to **research papers**, **AI projects**, and **open-source collaborations**  <br>- 📫 Contact: [sadidulakasunka@gmail.com](mailto:sadidulakasunka@gmail.com)  <br>- 🌐 Portfolio: [sadidula.github.io](https://sadidula.github.io)
 
-![Welcome Banner](https://img.shields.io/badge/Welcome-to%20My%20GitHub-blue?style=for-the-badge&logo=github)
 
-I’m a **Machine Learning Engineer & Developer** exploring AI, Robotics, Quantum Computing, and Game Development. I love building projects that combine research, simulation, and real-world applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kas-sa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadidulakasunka@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SADidula&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SADidula&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SADidula&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧭 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SADidula&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
-- 👀 Interests: **Machine Learning, Quantum Engineering, Robotics, Game Development, API Development**  
-- 🌱 Currently Learning: **Game Development with C#**, **API Development with JS & PHP**  
-- 💞️ Collaboration: Open to **research papers**, **AI projects**, and **open-source collaborations**  
-- 📫 Contact: [sadidulakasunka@gmail.com](mailto:sadidulakasunka@gmail.com)  
-- 🌐 Portfolio: [sadidula.github.io](https://sadidula.github.io)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-
-## 💻 Tech Stack & Tools
-
-| Languages | Frameworks & Libraries | Tools & Platforms |
-| :---: | :---: | :---: |
-| Python 🐍 | TensorFlow, Keras, PyTorch | VSCode, PyCharm, Jupyter |
-| C# 🎮 | Unity, .NET | Git, GitHub, Docker |
-| C++ ⚡ | ROS2, MoveIt 2 | Colcon, Unreal Engine |
-| Java ☕ | Pogamut | Maven |
-| JS/Node.js 🌐 | Express.js, Vue.js | npm, Postman |
-| PHP 🐘 | Laravel, REST APIs | XAMPP, Apache |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SADidula&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SADidula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 1. **[FAQ_Langchain_LLM_Bot](https://github.com/SADidula/FAQ_Langchain_LLM_Bot)**
-**AI-powered FAQ Bot with Multi-Modal Interaction**  
-
-![FAQ Bot GIF](https://via.placeholder.com/600x200?text=FAQ+Bot+Demo+GIF)  
-- Uses **OpenAI LLMs + LangChain** for context-aware responses  
-- **Text & Speech input/output**, with TTS support  
-- Built with **Python, Streamlit, FAISS, SpeechRecognition**
-
----
-
-### 2. **[Adaptive Agent for FPS Games](https://github.com/SADidula/Adaptive-Agent-for-FPS-Games-using-Reinforcement-Learning)**
-**Dynamic NPCs in Unreal Tournament 2004**  
-
-![FPS Agent Screenshot](https://via.placeholder.com/600x200?text=FPS+Agent+Screenshot)  
-- Implements **Reinforcement Learning (Q-Learning)**  
-- Integrates with **Pogamut** middleware  
-- Developed in **Java with Maven**
-
----
-
-### 3. **[Quantum RL for Robotic Arm](https://github.com/SADidula/Model-Based-Reinforcement-Learning-with-Quantum-Decision-Agents)**
-**Model-Based RL using Quantum Decision Agents**  
-
-![Robotic Arm Simulation](https://via.placeholder.com/600x200?text=Robotic+Arm+Simulation)  
-- Uses **ROS2 + MoveIt 2** for collision-aware trajectory planning  
-- Simulates **polygonal path-following tasks**  
-- Implemented in **Python**
-
----
-
-### 4. **[Malware Detection Hybrid ML Model](https://github.com/SADidula/Malware-Detection-Hybrid-ML-Model)**
-**CNN-LSTM + PSO for Intrusion Detection**  
-
-![Malware Detection Chart](https://via.placeholder.com/600x200?text=Malware+Detection+Dashboard)  
-- Detects **network attacks** using hybrid CNN-LSTM  
-- Optimized with **Particle Swarm Optimization (PSO)**  
-- Built with **Python, TensorFlow/Keras, Vue.js**
-
----
-
-### 5. **[StockPredict](https://github.com/SADidula/StockPredict)**
-**Hybrid LSTM system for financial forecasting**  
-
-![Stock Prediction Graph](https://via.placeholder.com/600x200?text=Stock+Prediction+Graph)  
-- Predicts **Bitcoin (BTCUSDT)** prices with **Python + PHP**  
-- Uses **RNN/LSTM**, Pandas, TensorFlow/Keras  
-- Web UI visualization for live predictions
-
----
-
-## 📊 GitHub Stats
-
-![Didula's GitHub stats](https://github-readme-stats.vercel.app/api?username=SADidula&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SADidula&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Didula-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadidula/)  
-[![Email](https://img.shields.io/badge/Email-sadidulakasunka@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sadidulakasunka@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-sadidula.github.io-purple?style=for-the-badge&logo=github)](https://sadidula.github.io)
-
----
-
-<p align="center">
-  <a href="#top">⬆️ Back to Top</a>
-</p>
-
-
-<!---
-SADidula/SADidula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
